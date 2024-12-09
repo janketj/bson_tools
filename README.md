@@ -261,4 +261,4 @@ Each component is independent and focused on specific tasks.
 
 ---
 
-Made with ❤️ by the BSON Tools Team
+Made with ❤️
